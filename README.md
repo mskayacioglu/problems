@@ -1,7 +1,6 @@
 # problems
 
 This repository contains a set of math problems and their solutions.  
-You can view the full problem set here:
 
 📄 **[Documentation](problems.pdf)**
 
